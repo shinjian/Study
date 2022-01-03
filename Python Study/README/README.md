@@ -24,3 +24,10 @@
 
 ### 6. Format
 - Python 'format()' 함수
+
+### 7. Function
+- Python 'strip()' 함수
+- Python 'find()' 함수
+- Python 'is()' 함수
+- Python 'split()' 함수
+- in 연산자
