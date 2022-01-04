@@ -31,3 +31,8 @@
 - Python 'is()' 함수
 - Python 'split()' 함수
 - in 연산자
+
+### 8. Conditional Statements
+- Comparing Operator
+- Logical Operator
+- Boolean (True, False)
