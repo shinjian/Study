@@ -36,3 +36,19 @@
 - Comparing Operator
 - Logical Operator
 - Boolean (True, False)
+
+### 9. List Array
+- Python 'append()' 함수
+- Python 'pop()' 함수
+- Python 'remove()' 함수
+- Python 'clear()' 함수
+- array index
+
+### 10. Dictionary
+- Dictionary 선언
+- Dictionary 요소 추가/삭제하기
+
+### 11. For
+- Python 'range()' 함수
+- Python 'reversed()' 함수
+- 'for' 반복문에 대해
